@@ -1,0 +1,35 @@
+2026-04-13 17:10:38,019 - INFO - Pipeline gestart
+2026-04-13 17:10:38,019 - INFO - Start extract (API call)
+2026-04-13 17:10:38,124 - INFO - API response: {'bitcoin': {'usd': 72007}}
+2026-04-13 17:10:38,126 - INFO - Start transform
+2026-04-13 17:10:38,128 - INFO - Start load
+2026-04-13 17:10:38,156 - INFO - Data opgeslagen
+2026-04-13 17:10:38,159 - INFO - Pipeline succesvol afgerond
+2026-04-13 17:10:46,045 - INFO - Pipeline gestart
+2026-04-13 17:10:46,045 - INFO - Start extract (API call)
+2026-04-13 17:10:46,146 - INFO - API response: {'bitcoin': {'usd': 72007}}
+2026-04-13 17:10:46,147 - INFO - Start transform
+2026-04-13 17:10:46,149 - INFO - Start load
+2026-04-13 17:10:46,160 - INFO - Data opgeslagen
+2026-04-13 17:10:46,163 - INFO - Pipeline succesvol afgerond
+2026-04-13 17:13:09,058 - INFO - Pipeline gestart
+2026-04-13 17:13:09,058 - INFO - Start extract (API call)
+2026-04-13 17:13:09,167 - INFO - API response: {'bitcoin': {'usd': 72000}}
+2026-04-13 17:13:09,168 - INFO - Start transform
+2026-04-13 17:13:09,170 - INFO - Start load
+2026-04-13 17:13:09,182 - INFO - Data opgeslagen
+2026-04-13 17:13:09,186 - INFO - Pipeline succesvol afgerond
+2026-04-13 17:19:09,647 - INFO - Pipeline gestart
+2026-04-13 17:19:09,647 - INFO - Start extract (API call)
+2026-04-13 17:19:09,775 - INFO - API response: {'bitcoin': {'usd': 71930}}
+2026-04-13 17:19:09,777 - INFO - Start transform
+2026-04-13 17:19:09,784 - INFO - Start load
+2026-04-13 17:19:09,802 - INFO - Data opgeslagen
+2026-04-13 17:19:09,807 - INFO - Pipeline succesvol afgerond
+2026-04-13 17:31:49,026 - INFO - Pipeline gestart
+2026-04-13 17:31:49,027 - INFO - Start extract (API call)
+2026-04-13 17:31:49,143 - INFO - API response: {'bitcoin': {'usd': 71974}}
+2026-04-13 17:31:49,144 - INFO - Start transform
+2026-04-13 17:31:49,172 - INFO - Start load
+2026-04-13 17:31:49,194 - INFO - Data opgeslagen
+2026-04-13 17:31:49,203 - INFO - Pipeline succesvol afgerond
